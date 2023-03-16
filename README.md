@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository](https://github.com/Lidenbrock-ed/product_preview_card_component)
-- Live Site URL: [Results Summary Component Page](https://lidenbrock-ed.github.io/product_preview_card_component/)
+- Live Site URL: [Product Preview Card Component Page](https://lidenbrock-ed.github.io/product_preview_card_component/)
 
 ## My process
 
